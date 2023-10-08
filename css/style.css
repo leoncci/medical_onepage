@@ -1,0 +1,16 @@
+.nav-bg-color {
+  background-color: #007bff;
+}
+body {
+  background-color: #6c757d;
+}
+tr,
+th {
+  background-color: white;
+}
+@media (max-width: 768px) {
+  tr,
+  th {
+    width: 20%;
+  }
+}
